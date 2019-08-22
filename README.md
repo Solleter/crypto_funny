@@ -6,9 +6,7 @@
 >
 > 只是大概写了一下逻辑，效果如下。
 
-```
-![](https://i.loli.net/2019/08/22/A4HImRuZdNkS3zV.png)
-```
+![222.png](https://i.loli.net/2019/08/22/f1OE6aerYGlR2Mu.png)
 
 #### Build Setup
 
